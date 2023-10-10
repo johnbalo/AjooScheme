@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.BusinessLogic.deps.json
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.BusinessLogic.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.BusinessLogic.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.DataAccess.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.Domain.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.DataAccess.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\bin\Debug\net6.0\AjooScheme.Domain.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.csproj.CopyComplete
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\refint\AjooScheme.BusinessLogic.dll
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\AjooScheme.BusinessLogic.pdb
+C:\Users\HP\source\repos\AJOO SCHEME\AJOOSCHEME.BusinessLogic\obj\Debug\net6.0\ref\AjooScheme.BusinessLogic.dll
